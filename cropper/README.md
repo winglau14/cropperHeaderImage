@@ -1,7 +1,7 @@
 # cropperx
 
 > A Vue.js project
-
+![Image text](https://raw.githubusercontent.com/winglau14/cropperHeaderImage/master/cropper/static/1.gif)
 ## Build Setup
 
 ``` bash
