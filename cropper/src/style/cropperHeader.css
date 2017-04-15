@@ -1,0 +1,40 @@
+.cropper-header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.cropper-header-image {
+  width: 2.66666667rem;
+  height: 2.66666667rem;
+  display: block;
+  border-radius: 50% 50%;
+  background: #dbdbdb;
+  margin-top: 0.8rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cropper-header-file {
+  position: absolute;
+  left: 50%;
+  top: 0.8rem;
+  transform: translateX(-50%);
+  width: 2.66666667rem;
+  height: 2.66666667rem;
+  opacity: 0;
+}
+.cropper-header-btn {
+  position: absolute;
+  left: 0;
+  bottom: 0.26666667rem;
+  width: 100%;
+  display: flex;
+}
+.cropper-header-btn span {
+  display: block;
+  flex: 1;
+  color: #fff;
+  font-size: 0.42666667rem;
+  text-align: center;
+}
