@@ -1,7 +1,7 @@
 # cropperx
 
-> A Vue.js project
-![Image text](https://raw.githubusercontent.com/winglau14/cropperHeaderImage/master/cropper/static/1.gif)
+> A Vue.js project 移动端头像压缩+裁剪，主要使用了lrz cropperjs这两个库，图片支持缩放
+> ![Image text](https://raw.githubusercontent.com/winglau14/cropperHeaderImage/master/cropper/static/1.gif)
 ## Build Setup
 
 ``` bash
